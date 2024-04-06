@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "paths": {
+      "@/components/*": ["./pages/components/*"],
+      "@/styles/*": ["./styles/*"],
+      "@/public/*": ["./public/*"],
+      "@/lib/*": ["./lib/*"],
+      "@*": ["./*"],
+    }
+  }
+}
